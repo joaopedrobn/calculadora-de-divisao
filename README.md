@@ -62,9 +62,5 @@ O programa informará:
 Erro: divisão por zero não é permitida.
 ```
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
 ---
 📌 Para mais informações, visite o repositório original: [calculadora-de-divisao](https://github.com/joaopedrobn/calculadora-de-divisao).
