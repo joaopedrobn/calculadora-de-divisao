@@ -62,14 +62,6 @@ O programa informará:
 Erro: divisão por zero não é permitida.
 ```
 
-## 🖼️ Exemplos
-
-![Exemplo 1](https://github.com/joaopedrobn/calculadora-de-divisao/raw/main/Screenshot_3.png)
-*Divisão válida*
-
-![Exemplo 2](https://github.com/joaopedrobn/calculadora-de-divisao/raw/main/Screenshot_4.png)
-*Tentativa de divisão por zero*
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
